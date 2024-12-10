@@ -30,4 +30,5 @@ git remote add origin <link>.
 
 # git push origin main
 
-Now we can push the localy repository changes to the remotely to origin . That origin is the link we set
+Now we can push the localy repository changes to the remotely to origin . That origin is the link we set.
+that is done now
