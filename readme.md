@@ -14,5 +14,6 @@ Once the respository is initialized, you can use commond like .
 
 The git init make the folder or respository Git respository locally on your system. not on the
 Github.
+How can to push the folder or Project onto GitHub remotally. because is only on our local system.
 
 # git remote add origin <link>
