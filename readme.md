@@ -17,3 +17,8 @@ Github.
 How can to push the folder or Project onto GitHub remotally. because is only on our local system.
 
 # git remote add origin <link>
+
+how can we new resposity to push onto the GetHub account.
+To add the respository onto github we need to set new repositor on our GitHub account that respository is empty we did not
+add any file init. and copy that repository link . We set that respository link as the remote using the "git remote add origin<link>
+git remote add origin <link>.
