@@ -32,3 +32,32 @@ git remote add origin <repository-link>.
 
 Now we can push the localy repository changes to the remotely to origin . That origin is the link we set.
 that is done now
+
+# Git Branches
+
+Branch is used to create the copy of respository or the project. Why we create the copy of project or respository.
+We can work on the copy of project or respositoy so the main branch or main respositoy safe durining the changes.
+All changes effect on the new created branch. We can perform following task on new created branch
+
+- add feature
+- test ideas
+- fix mistake
+  So our main branch will be remain safe or un effective untill the all change is is clear. if the new changes are good then we
+  can combine that change our main branch or if not we can delete the new reate branch.
+
+## branches commands
+
+- git branch : That command is used to check the Current branch.
+- git checkout : That command is used to navigate from one branch to anoth branch we write the 'git checkout' then menion the branch name
+
+- git checkout -b : that command used to create the new branch "git checkout -b 'newbranchName'.
+- git branch -d : That command used to delete the branch . we mention that branch name after it. if we want to delete the branch.
+- git push --set-upstream origin : that command used to push your lcal branch to remote origin . that set the upstream new branch.
+
+# How to push the branch remote orgin
+
+All changes are perform after commit the changes into new branch that branch all changes commited into the
+localy. we need to push that branc remotely.
+
+- git push --set-upstream origin <new branch name>: we need to set the Upstream for new create branch
+  that branch after that we can push it into remote origin
