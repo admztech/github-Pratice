@@ -54,4 +54,10 @@ All changes effect on the new created branch. We can perform following task on n
 - git branch -d : That command used to delete the branch . we mention that branch name after it. if we want to delete the branch.
 - git push --set-upstream origin : that command used to push your lcal branch to remote origin . that set the upstream new branch.
 
-# How to add the other Merge the branches
+# How to push the branch remote orgin
+
+All changes are perform after commit the changes into new branch that branch all changes commited into the
+localy. we need to push that branc remotely.
+
+- git push --set-upstream origin <new branch name>: we need to set the Upstream for new create branch
+  that branch after that we can push it into remote origin
