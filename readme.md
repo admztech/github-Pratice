@@ -53,3 +53,5 @@ All changes effect on the new created branch. We can perform following task on n
 - git checkout -b : that command used to create the new branch "git checkout -b 'newbranchName'.
 - git branch -d : That command used to delete the branch . we mention that branch name after it. if we want to delete the branch.
 - git push --set-upstream origin : that command used to push your lcal branch to remote origin . that set the upstream new branch.
+
+# How to add the other Merge the branches
