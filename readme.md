@@ -61,3 +61,11 @@ localy. we need to push that branc remotely.
 
 - git push --set-upstream origin <new branch name>: we need to set the Upstream for new create branch
   that branch after that we can push it into remote origin
+
+# Pull command
+
+### git pull origin main
+
+that command is used to fetch the changes from the remote branch to local branch . that change we make and stored into remote
+branch can not automaticall reflect into the local repositor or main branch to see that changes into the local system we need the
+used "git pull origin main" command that is fetch the changes and reflect into the main branch.
